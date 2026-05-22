@@ -1,0 +1,10 @@
+# ninja log v5
+36	1519	7896695733629619	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	dbb3d42f83153ba6
+19	1541	7896695733842827	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	f2ada950ee7401b4
+46	1557	7896695734018352	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	8b88b277b86f07e5
+56	1604	7896695734499190	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8d4642c2b542ec77
+66	1711	7896695735574802	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	dcb655058586e363
+11	1803	7896695736498540	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	424e3cc2641ef871
+27	1993	7896695738429159	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	e8556d77725348d0
+1	2135	7896695739874113	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	6ee2435fc72ac63b
+2135	2275	7896695741374266	C:/Users/Monster/Desktop/Unity/Space shooter/Dog Escape/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/z3q54b3v/obj/arm64-v8a/libgame.so	e8e0b9393ec52e85
