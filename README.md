@@ -1,6 +1,6 @@
-# Dog Escape
+# Endless Runner
 
-Dog Escape, Unity ile geliştirilmiş bir endless runner oyun projesidir. Oyuncu, sabit hatlar arasında hareket eder, engelleri aşar ve skor elde etmeye çalışır.
+Endless Runner, Unity ile geliştirilmiş bir endless runner oyun projesidir. Oyuncu, sabit hatlar arasında hareket eder, engelleri aşar ve skor elde etmeye çalışır.
 
 ## Özellikler
 
